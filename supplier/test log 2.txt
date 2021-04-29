@@ -1,0 +1,93 @@
+##############
+                    <table class="demandlist" >
+                        <thead>
+                            <tr>
+                                <th>No.</th>
+                                <th>Code</th>
+                                <th>Book Name</th>
+                                <th>Author</th>
+                                <th>Quantity</th>
+                                <th>Deadline</th>
+                                <th>Select</th>
+                                
+                            </tr>
+
+                        </thead>
+                        
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>a</td>
+                                <td>gg</td>
+                                <td>c</td>
+                                <td>gg</td>
+                                <td>c</td>
+                                <td><input type="checkbox" name="checkRemember"></td>
+                            </tr>
+    
+                            <tr>
+                                <td>2</td>
+                                <td>b</td>
+                                <td>a</td>
+                                <td>gg</td>
+                                <td>c</td>
+                                <td>gg</td>
+                                <td><input type="checkbox" name="checkRemember"></td>
+
+                            </tr>
+    
+                            <!-- click selection -->
+                            <tr class="active-row">   
+                                <td>3</td>
+                                <td>b</td>
+                                <td>a</td>
+                                <td>gg</td>
+                                <td>c</td>
+                                <td>c</td>
+                                <td><input type="checkbox" name="checkRemember"></td>
+                            </tr>
+
+                            <tr>
+                                <td>4</td>
+                                <td>b</td>
+                                <td>c</td>
+                                <td>a</td>
+                                <td>gg</td>
+                                <td>c</td>
+                                <td><input type="checkbox" name="checkRemember"></td>
+                            </tr>
+
+                            <tr>
+                                <td>5</td>
+                                <td>b</td>
+                                <td>c</td>
+                                <td>gg</td>
+                                <td>b</td>
+                                <td>c</td>
+                                <td><input type="checkbox" name="checkRemember"></td>
+                            </tr>
+
+                            <tr>
+                                <td>6</td>
+                                <td>b</td>
+                                <td>c</td>
+                                <td>b</td>
+                                <td>a</td>
+                                <td>gg</td>
+                                <td><input type="checkbox" name="checkRemember"></td>
+                            </tr>
+
+                            <tr>
+                                <td>7</td>
+                                <td>b</td>
+                                <td>c</td>
+                                <td>c</td>
+                                <td>a</td>
+                                <td>c</td>
+                                <td><input type="checkbox" name="checkRemember"></td>
+                            </tr>
+    
+                        </tbody>
+
+
+                    </table>
